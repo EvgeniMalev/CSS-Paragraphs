@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This is a single-line comment */
+p {
+  color: blue;
+} 
+
+p1 {
+  color: purple;
+} 
+
+s {
+  color: red;
+} 
+w {
+  color: green;
+} 
+</style>
+</head>
+<body>
+
+<p>Hello World!</p>
+<p>This paragraph is styled with CSS.</p>
+<p>CSS comments are not shown in the output.</p>
+<p1>Another paragraph in a new color.</p1>
+<s>No text.</s>
+
+</body>
+</html>
